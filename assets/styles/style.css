@@ -229,16 +229,6 @@ nav ul li a:hover {
   position: relative;
 }
 
-.about ul li::before {
-  content: "•";
-  color: #60bdf3;
-  font-size: 1.5rem;
-  position: absolute;
-  left: -20px;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
 /* Estilos da seção Contato */
 .contact {
   padding: 50px 10%;
